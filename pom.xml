@@ -46,17 +46,11 @@
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
     <version>1.18.26</version>
-    <scope>provided</scope>
 </dependency>
 
 
 
-
-  	<dependency>
-  		<groupId>com.guvi.framework</groupId>
-  		<artifactId>POMUIFramework</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+	  
   </dependencies>
   
   <build>
@@ -87,5 +81,4 @@
 
 	 </plugins>
 	</build>
-
 </project>
